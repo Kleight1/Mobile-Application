@@ -1,0 +1,1 @@
+Dalam Pengujian App yang dilakukan, Tombol foto dan video mampu berjalan, lalu pada galeri video. saat item pada RecyclerView di klik, maka akan dipindahkan ke detail video, pada detail video, video dijalankan secara otomatis dan saat ditekan tombol kembali maka akan kembali ke list video.
