@@ -103,8 +103,9 @@ public class ViewMusicActivity extends AppCompatActivity {
                 startProfile();
                 return true;
             case R.id.logout:
-                if(MusicDetailActivity.mp.isPlaying() || MusicDetailActivity.mp != null){
-                    MusicDetailActivity.mp.pause();
+                if(MusicDetailActivity.mp != null){
+                    if (MusicDetailActivity.mp.isPlaying())
+                        MusicDetailActivity.mp.pause();
                 }
                 startLogin();
                 return true;
