@@ -1,0 +1,1 @@
+Dari pengujian yang dilakukan, program dapat menyimpan data yang di input oleh user, lalu dapat menghapus seluruh data yang dibuat dengan baik, Untuk pengisian data yang menggunakan NIM yang sama, data tersebut tidak dapat terinput karena telah ada nim yang sama pada data yang telah tersedia.

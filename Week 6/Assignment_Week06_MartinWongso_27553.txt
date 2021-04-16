@@ -1,0 +1,4 @@
+Hasil pengujian terhadap app yang dibuat adalah:
+- Pada Program pertama, saat di klik maka akan dijalankan animasi berupa lingkaran yang diperbesar dan diperkecil sebanyak 2x, sehingga ada animasi diperbesar-diperkecil-diperbesar-diperkecil.
+- Pada program kedua, Image kuda bila diklik akan menjalankan animasi / perpindahan antar foto sehingga terlihat seperti animasi kuda berlari.
+- Pada program ketiga, saat button diklik maka akan dijalankan fungsi fling/spring. Fling berupa animasi memutar objek, sedeangkan spring animasi seperti pegas.

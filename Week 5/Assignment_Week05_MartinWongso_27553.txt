@@ -1,0 +1,2 @@
+Hasil pengujian yang didapatkan dari tugas minggu ini adalah:
+- Bentuk yang dapat digambar dapat berjalan dengan baik dengan pemilihan outline sesuai dengan keinginan user. Namun terdapat bug seperti output gambar yang dibuat bila layar / canvas diklik-klik namun tidak didrag, ketika dilakukan hal tersebut maka gambar yang dikeluarkan akan lebih dari 1 pada posisi tertentu berdasarkan input user.

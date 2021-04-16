@@ -1,0 +1,8 @@
+Berdasarkan uji coba yang dilakukan pada program pertama, aplikasi dapat berjalan dengan baik, namun saat aplikasi tersebut berjalan dapat menakan button mulai task. bila tombol tersebut ditekan maka akan menghilangkan progress bar saat menjalankan task berikutnya.
+
+Berdsaarkan uji coba yang dilakukan pada program kedua, aplikasi dapat berjalan dengan baik, dan tombol yang ditekan saat progress dijalankan menjadi tidak terganggu.
+
+Berdasarkan uji coba yang dilakukan pada program ketiga, tata letak button yang dibuat terletak pada pojok kiri atas karena tidak diberikan constraint. Button startservice tidak menunjukan perubahan pada aplikasi karena fungsi yang terdapat pada program tersebut telah di comment. Ketika button tampilkan waktu diklik berulang kali, toast yang ditampilkan akan sebanyak berapa kali menekan tombol secara bergantian.
+
+Link Github:
+https://github.com/Kleight1/Mobile-Application/tree/main/Week%2010

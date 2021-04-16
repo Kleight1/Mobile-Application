@@ -1,0 +1,5 @@
+Pada Tutorial Intent & Passing Data antara 2 intent:
+Pengiriman data antar activity tidak disimpan, saat memasukkan URL, harus memasukkan link lengkap menggunakan "https://......".
+
+Pada Tutorial Fragment:
+Input yang diberikan tidak menghasilkan perubahan apa-apa karena belum ada script untuk memunculkan input yang diberikan oleh user.

@@ -1,0 +1,3 @@
+Dari Hasil pengujian terhadap app yang dibuat, didapatkan hasil berupa:
+- Bila Kata di klik, maka akan memunculkan telah di klik pada kata dan diberikan notifikasi kata mana yang telah diklik.
+- Saat menekan tombol tambah, maka akan menambahkan kata baru pada dictionary yang dibuat dan view akan di bawa menuju tempat kata terbaru yang dibuat.
