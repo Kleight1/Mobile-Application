@@ -1,0 +1,3 @@
+Berdasarkan pengujian yang dilakukan pada tutorial A, didapatkan hasil output aplikasi yang dapat mengecek jenis sensor yang terdapat pada handphone.
+
+Berdasarkan pengujian yang dilakukan pada tutorial B, didapatkan hasil output aplikasi yang mengecek cahaya yang mengenai handphone, serta dapat mengecek objek yang dekat dengan handphone sama seperti saat menelepon orang maka layar handphone akan mati saat didekatkan ke telinga.

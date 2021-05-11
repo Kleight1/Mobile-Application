@@ -1,0 +1,1 @@
+Berdasarkan pengujian yang dilakukan, aplikasi dapat menampilkan maps berdasarkan titik yang telah ditentuakan dengan tingkat kedekatan / zoom in terhadap lokasi secara tepat. selain itu dapat dilakukan penambahan titik atau lokasi berdasarkan marker yang digunakan. Belum menemukan masalah dari program sejauh ini selama melakukan pengujian.
